@@ -1,14 +1,10 @@
-####
-# This sample is published as part of the blog article at www.toptal.com/blog
-# Visit www.toptal.com/blog and subscribe to our newsletter to read great posts
-####
 
 _ = require 'underscore'
 async = require 'async'
 Bourne = require 'bourne'
 express = require 'express'
 
-movies = require './data/movies.json'
+movies = require './data/products.json'
 
 Engine = require './lib/engine'
 e = new Engine

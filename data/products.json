@@ -1,0 +1,132 @@
+[
+	{
+		"id": "1",
+		"name": "SAMSUNG GALAXY ON5 8GB (GOLD)",
+		"description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+		"price" : 2222,
+		"brand" : "samsung",
+		"camera" : "13MP",
+        "category" : "mobile",
+		"4G" : "Yes",
+		"thumb": {
+			"url": "http://static.overcart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung_galaxy_on5_8gb_gold_1_.jpeg"
+		}
+	},
+	{
+		"id": "2",
+		"name": "LG NEXUS 5 D821 16GB (BLACK)",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price" : 2331,
+        "brand" : "LG",
+        "camera" : "8MP",
+        "category" : "mobile",
+        "4G" : "Yes",
+		"thumb": {
+			"url": "http://static.overcart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/x/nx1_5.jpg"
+		}
+	},
+	{
+		"id": "3",
+		"name": "SAMSUNG GALAXY S3 I9300 16GB (PEBBLE BLUE)",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price" : 3111,
+        "brand" : "Micromax",
+        "camera" : "13MP",
+        "category" : "mobile",
+        "4G" : "Yes",
+		"thumb": {
+			"url": "http://static.overcart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/3/s3-blue_1_1__3.jpg"
+		}
+	},
+	{
+		"id": "4",
+		"name": "NEXUS 6 32GB (MIDNIGHT BLUE)",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price" : 3333,
+        "brand" : "samsung",
+        "camera" : "13MP",
+        "category" : "mobile",
+        "4G" : "No",
+		"thumb": {
+			"url": "http://static.overcart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/e/nexus_6_32gb_midnight_blue__1_2_1__1_1.jpeg"
+		}
+	},
+	{
+		"id": "5",
+		"name": "SAMSUNG GALAXY NOTE GT-N7000 16GB (WHITE)",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price" : 5555,
+        "brand" : "MI",
+        "camera" : "8MP",
+        "category" : "mobile",
+        "4G" : "Yes",
+		"thumb": {
+			"url": "http://static.overcart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-note-n7000-ceramic-1178802-1-1a50d.jpg"
+		}
+	},
+	{
+		"id": "6",
+		"name": "ONEPLUS ONE 64GB (SANDSTONE BLACK)",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price" : 3222,
+        "brand" : "ONEPLUS",
+        "camera" : "13MP",
+        "category" : "mobile",
+        "4G" : "Yes",
+  		"thumb": {
+			"url": "http://static.overcart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/M/U/MU52845_1.jpg"
+		}
+	},
+	{
+		"id": "7",
+		"name": "HTC ONE 32GB (SILVER)",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price" : 7666,
+        "brand" : "HTC",
+        "camera" : "16MP",
+        "category" : "mobile",
+        "4G" : "Yes",
+		"thumb": {
+			"url": "http://static.overcart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/8/m8silver2_3.jpg"
+		}
+	},
+	{
+		"id": "8",
+		"name": "SAMSUNG GALAXY GRAND 2 G7102 8GB (BLACK)",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price" : 6444,
+        "brand" : "samsung",
+        "camera" : "8MP",
+        "category" : "mobile",
+        "4G" : "Yes",
+		"thumb": {
+			"url": "http://static.overcart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-grand-2-400x400-imadt56dmkcthcbd_1__4.jpeg"
+		}
+	},
+	{
+		"id": "9",
+		"name": "MICROSOFT LUMIA 640 XL DUAL SIM 8GB (WHITE)",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price" : 8888,
+        "brand" : "Microsoft",
+        "camera" : "8MP",
+        "category" : "mobile",
+        "4G" : "Yes",
+		"thumb": {
+			"url": "http://static.overcart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/u/lumia_xl_1_1_2.jpg"
+		}
+	},
+	{
+		"id": "10",
+		"name": "SONY XPERIA Z5 E6683 32GB (GOLD)",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price" : 8888,
+        "brand" : "Sony",
+        "camera" : "8MP",
+        "category" : "mobile",
+        "4G" : "Yes",
+		"thumb": {
+			"url": "http://static.overcart.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/o/sony-xperia-z5-e6683-32gb-dual-sim-gold-sonxpez5e668332gbduasimgold-by-sony-color-gold-efe_1_.jpg"
+		}
+	}
+]
